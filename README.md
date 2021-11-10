@@ -1,2 +1,3 @@
 # test.github
-## colaborators
+## contributors
+### Wireframes
